@@ -2,7 +2,7 @@
 - 👀 I like Web and App development
 - 💻 I have also spent time with ML
 - ✨ Still there are lots of things to learn and explore
-- 🍨 Hope I can fill my hungry mind.
+- 🍨 Hope I can fill my hunger
 
 <!---
 Dipankar-Medhi/Dipankar-Medhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
