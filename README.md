@@ -5,7 +5,7 @@
 
 I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work on React projects. I also love to play with data 📊 and build models for predictive analysis 📈.
 
-## **Skills**:  
+**Skills**:  
 - React / Js / Html / Css
 - Python
 - Exploratory Data Analysis
