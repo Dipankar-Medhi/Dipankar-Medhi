@@ -1,6 +1,6 @@
 ![Data Sicence and Developer](https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/Dipankar%20medhi.png)
 
-# Hi there 👋, I'm Dipankar Medhi
+# Hi there 👋, I'm Dipankar
 
 
 I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work on React projects. I also love to play with data 📊 and build models for predictive analysis 📈.
