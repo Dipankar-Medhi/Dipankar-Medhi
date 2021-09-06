@@ -11,7 +11,7 @@ I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and framewor
 - Exploratory Data Analysis
 - Machine Learnig and Neural Networks.
 
-## **Add Info**
+## **Additional Info**
 - 🌱 I’m currently learning Go and Docker.
 - ⚡ Fun fact: The name "Velociraptor" means speedy thief. 
 
