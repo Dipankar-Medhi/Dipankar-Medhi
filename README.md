@@ -15,7 +15,7 @@ I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and framewor
 - 🌱 I’m currently learning Go and Docker.
 - ⚡ Fun fact: The name "Velociraptor" means speedy thief. 
 
-<img src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/chrome_dino.gif'>
+<img src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/chrome_dino.gif'> <img width='300' src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/typing.gif' >
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dipankar-Medhi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dipankarmedhi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_dipankarmedhi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dipankar-medhi.netlify.app/)  
 
