@@ -1,4 +1,4 @@
-![Data Sicence and Developer](https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/Dipankar%20medhi.png)
+
 
 # Hi there 👋, I'm Dipankar
 
