@@ -2,8 +2,10 @@
 
 # Hi there 👋, I'm Dipankar
 
+<img  src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/banner.gif'>
 
-I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work on React projects. I also love to play with data 📊 and build models for predictive analysis 📈.
+
+<h3>I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work on React projects. I also love to play with data 📊 and build models for predictive analysis 📈.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -17,7 +19,7 @@ I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and framewor
 - 🌱 I’m currently learning Go and Docker.
 - ⚡ Fun fact: The name "Velociraptor" means speedy thief. 
 
-<img src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/chrome_dino.gif'> <img width='300' src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/typing.gif' >
+<img src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/chrome_dino.gif'> <img width='300' src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/typing.gif' > 
 
 
 
