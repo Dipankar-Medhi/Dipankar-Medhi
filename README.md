@@ -4,17 +4,22 @@
 
 <img  src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/banner.gif'>
 
-
-I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work on React projects. I also love to play with data 📊 and build models for predictive analysis 📈.
+<p align='center' >
+    I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work on React projects.<br> I also love to play with data 📊 and build models for predictive analysis 📈.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
 <div>
-    <a href = 'https://github.com/Dipankar-Medhi'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> </a>
-    <a href = 'https://www.linkedin.com/in/dipankarmedhi'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'> </a>
-    <a href = 'https://twitter.com/_dipankarmedhi'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='40'> </a>
-    <a href = 'https://dipankar-medhi.netlify.app'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='github' height='40'> </a>
-    <img align = 'right' width = '400' src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/chrome_dino.gif'>
+    <img align = 'right' width = '400' src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/chrome_dino.gif'><br><br>
+    <p align='left'>
+        <a href = 'https://github.com/Dipankar-Medhi'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> </a>
+        <a href = 'https://www.linkedin.com/in/dipankarmedhi'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'> </a>
+        <a href = 'https://twitter.com/_dipankarmedhi'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='40'> </a>
+        <a href = 'https://dipankar-medhi.netlify.app'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='github' height='40'> </a>
+    </p>
+    <br>
+    
 </div>
 
 <h3 align="centre">Languages and Tools:</h3>
