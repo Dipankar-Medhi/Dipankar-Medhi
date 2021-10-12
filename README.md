@@ -5,7 +5,7 @@
 <img  src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/banner.gif'>
 
 <p align='center' >
-    I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work on React projects.<br> I also love to play with data 📊 and build models for predictive analysis 📈.
+    I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work on React projects and Contribute in Open Source projects.<br> I also love to play with data 📊 and build models for predictive analysis 📈.
 </p>
 
 <h3 align="left">Connect with me:</h3>
