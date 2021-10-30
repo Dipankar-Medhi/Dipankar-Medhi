@@ -1,38 +1,28 @@
 
 
 # Hi there 👋, I'm Dipankar
+<div>
+    <img align = 'right' width = '500'  src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/banner.gif'>
 
-<img  src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/banner.gif'>
 
-<p align='center' >
-    I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work on React projects and Contribute in Open Source projects.<br> I also love to play with data 📊 and build models for predictive analysis 📈.
+<p align='justify' >
+I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work on React projects and Contribute in Open Source projects. I also love to play with data 📊 and build models for predictive analysis 📈. I ❤ Data Science and want to become a data scientist.
 </p>
+</div>
 
-- 🌱 I’m currently learning **DevOps** and **Go**.
-- 📕 Books :
-
-        1. Practical Statistics for Data Scientists
-        2. Feature Engineering for Machine Learning Principles and Techniques for Data Scientists.
-        3. Grokking Algorithms.
-        4. An Introduction to Statistical Learning  with Applications in R.
-
-
+- 🧠 Working to become a Data Scientist.
+- 🌱 Currently learning **DevOps**.
+- 🏭 All my projects are on [Github](https://github.com/Dipankar-Medhi)
+- 🌟 Love hackathons and building projects.
 - ⚡ Fun fact: The name 🐱‍🐉 "Velociraptor" means speedy thief. 
         
 
 <h3 align="left">Connect with me:</h3>
 
-<div>
-    <img align = 'right' width = '400' src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/chrome_dino.gif'><br><br>
-    <p align='left'>
-        <a href = 'https://github.com/Dipankar-Medhi'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> </a>
-        <a href = 'https://www.linkedin.com/in/dipankarmedhi'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'> </a>
-        <a href = 'https://twitter.com/_dipankarmedhi'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='40'> </a>
-        <a href = 'https://dipankar-medhi.netlify.app'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='github' height='40'> </a>
-    </p>
-    <br>
-    
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dipankarmedhi)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_dipankarmedhi)
+
+<br>
 
 <h3 align="centre">Languages and Tools:</h3>
   
