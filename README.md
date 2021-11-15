@@ -6,7 +6,7 @@
 
 
 <p align='justify' >
-I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work on React projects and Contribute in Open Source projects. I also love to play with data 📊 and build models for predictive analysis 📈. I ❤ Data Science and want to become a data scientist.
+I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and frameworks and love 💙 to work and Contribute in Open Source projects. I like to work on data science and ML projects.
 </p>
 </div>
 
