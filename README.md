@@ -10,7 +10,6 @@ I am Dipankar Medhi from India. I enjoy 🤩 learning new languages and framewor
 </p>
 </div>
 
-- 🧠 Working to become a Data Scientist.
 - 🌱 Currently learning **DevOps**.
 - 🏭 All my projects are on [Github](https://github.com/Dipankar-Medhi)
 - 🌟 Love hackathons and building projects.
