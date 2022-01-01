@@ -16,7 +16,7 @@ I am Dipankar Medhi from India. I enjoy 🤩 learning new tools and technologies
 - ⚡ Fun fact: The name 🐱‍🐉 "Velociraptor" means speedy thief. 
         
 
-<h3 align="left">Connect and Follow me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dipankarmedhi)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_dipankarmedhi)
