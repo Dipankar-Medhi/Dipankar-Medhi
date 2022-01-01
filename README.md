@@ -11,7 +11,6 @@ I am Dipankar Medhi from India. I enjoy 🤩 learning new tools and technologies
 </div>
 
 - 🌱 Currently learning **DevOps**.
-- 🏭 All my projects are on [Github](https://github.com/Dipankar-Medhi)
 - 🌟 Love hackathons and building projects.
 - ⚡ Fun fact: The name 🐱‍🐉 "Velociraptor" means speedy thief. 
         
