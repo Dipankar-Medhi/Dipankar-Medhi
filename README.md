@@ -26,7 +26,7 @@ Unity - Go to Unity and download the Unity installer. Choose the right version a
 <br/> Today, we will build a shared wallet in Solidity, which will have functions like withdrawing, adding funds to different users on the wallet. 
 We will use Openzeppelin for the ownership and other security processes. 
 🚀What is the project all about?
-T...</td></tr><tr><td><a href="https://dipankarmedhi.hashnode.dev/go-programming-books-cl0kz1ab401r0tbnvaek84j5y" title="Best books on Go Programming Language"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/lUaaKCUANVI/upload/v1646915101049/NHhUF8soo.jpeg" alt="Best books on Go Programming Language"   /></a>
+T...</td><td><a href="https://dipankarmedhi.hashnode.dev/go-programming-books-cl0kz1ab401r0tbnvaek84j5y" title="Best books on Go Programming Language"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/lUaaKCUANVI/upload/v1646915101049/NHhUF8soo.jpeg" alt="Best books on Go Programming Language"   /></a>
 <a href="https://dipankarmedhi.hashnode.dev/go-programming-books-cl0kz1ab401r0tbnvaek84j5y" title="Best books on Go Programming Language"><strong>Best books on Go Programming Language</strong></a>
 <div><strong>10 Mar 2022</strong></div>
 <br/> Learning a new topic can be overwhelming, especially if it's a new programming language. Although the concepts remain the same, being able to write and solve problems using a new syntax can be a bit confusing.
