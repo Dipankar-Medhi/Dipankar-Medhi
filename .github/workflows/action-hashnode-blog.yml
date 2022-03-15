@@ -3,7 +3,7 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' # Runs Every Day
+    - cron: '0 0 * * *' # Runs Every Day
 
 jobs:
   update_blogs:
@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "Dipankar-Medhi/action-hashnode-blog@main"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'dipankarmedhi' # Hashnode Username
           COUNT: 10 # MAX Visisble
