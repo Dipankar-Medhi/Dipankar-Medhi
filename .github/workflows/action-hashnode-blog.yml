@@ -3,7 +3,7 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs Every Day
+    - cron: '0 * * * *' # Runs Every Day
 
 jobs:
   update_blogs:
@@ -17,6 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'dipankarmedhi' # Hashnode Username
-          COUNT: 10 # MAX Visisble
+          COUNT: 5 # MAX Visisble
+          STYLE: "blog-grid"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
