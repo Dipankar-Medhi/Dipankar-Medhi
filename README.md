@@ -17,6 +17,9 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Self Driving Car using Tensorflow](https://dipankarmedhi.hashnode.dev/self-driving-car-using-tensorflow-cl0rqs8kl06ayoqnv00m1cns7)
+- [Build a Simple Shared Wallet in Solidity](https://dipankarmedhi.hashnode.dev/simple-shared-wallet-in-solidity-cl0qmy9va02jeoqnv3ubi63lp)
+- [Best books on Go Programming Language](https://dipankarmedhi.hashnode.dev/go-programming-books-cl0kz1ab401r0tbnvaek84j5y)
 <!-- HASHNODE_BLOG:END -->
 
 
