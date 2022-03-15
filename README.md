@@ -48,8 +48,8 @@ So here I am, trying to help you guys ge...</td></tr></table>
 ---
 
 <div>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=dipankar-medhi&show_icons=true&locale=en&theme=radical" alt="dipankar-medhi" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar-medhi&" alt="dipankar-medhi" /></p>
+<p>&nbsp;<img width = "400" src="https://github-readme-stats.vercel.app/api?username=dipankar-medhi&show_icons=true&locale=en&theme=radical" alt="dipankar-medhi" />
+<img width = "400" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar-medhi&" alt="dipankar-medhi" /></p>
 </div>
 
 <div>
