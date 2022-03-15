@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Dipankar-Medhi/blog-post-workflow@main
+      - uses: Dipankar-Medhi/blog-post-workflow@master
         with:
           feed_list: 'https://medium.com/feed/@dipankarmedhi11'
