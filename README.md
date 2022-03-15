@@ -48,9 +48,11 @@ So here I am, trying to help you guys ge...</td></tr></table>
 ---
 
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipankar-medhi&show_icons=true&locale=en&theme=radical" alt="dipankar-medhi" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar-medhi&" alt="dipankar-medhi" /></p>
-    <br>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=dipankar-medhi&show_icons=true&locale=en&theme=radical" alt="dipankar-medhi" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar-medhi&" alt="dipankar-medhi" /></p>
+</div>
+
+<div>
 <p><img align='left' width = '300' src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/graph.gif' > <img align = 'right' width='300' src = 'https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/typing.gif' ></p>
 </div>
 
