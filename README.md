@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankar-medhi&label=Profile%20views&color=0e75b6&style=flat" alt="dipankar-medhi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipankar-medhi&theme=onedark&row=2&column=4" alt="dipankar-medhi" /></a> </p>
-
 - 🌱 I’m currently learning **Blockchain development**
 
 - 💬 Ask me about **Data Science, Machine Learning, Web development, Golang, Python**
