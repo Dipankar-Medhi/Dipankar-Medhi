@@ -11,11 +11,8 @@
 
 - ⚡ Fun fact **I can learn anything**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## My Latest Blog Posts 👇
+---
+### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://dipankarmedhi.hashnode.dev/self-driving-car-using-tensorflow-cl0rqs8kl06ayoqnv00m1cns7" title="Self Driving Car using Tensorflow"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647324922399/k0O4lvdGE.png" alt="Self Driving Car using Tensorflow"   /></a>
 <a href="https://dipankarmedhi.hashnode.dev/self-driving-car-using-tensorflow-cl0rqs8kl06ayoqnv00m1cns7" title="Self Driving Car using Tensorflow"><strong>Self Driving Car using Tensorflow</strong></a>
@@ -36,6 +33,7 @@ T...</td></tr><tr><td><a href="https://dipankarmedhi.hashnode.dev/go-programming
 So here I am, trying to help you guys ge...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
+---
 
 <h3 align="left">Connect with me:</h3>
 
