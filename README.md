@@ -14,9 +14,9 @@
 ---
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://dipankarmedhi.hashnode.dev/blockchain-impacts-finance-sector-cl0woo9fw068pj6nv7i6pccms" title="How does Blockchain impact the Financial industry?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647622212966/KrOBFZspw.png" alt="How does Blockchain impact the Financial industry?"   /></a>
-<a href="https://dipankarmedhi.hashnode.dev/blockchain-impacts-finance-sector-cl0woo9fw068pj6nv7i6pccms" title="How does Blockchain impact the Financial industry?"><strong>How does Blockchain impact the Financial industry?</strong></a>
-<div><strong>18 Mar 2022</strong></div>
+<table><tr><td><a href="https://dipankarmedhi.hashnode.dev/blockchain-changes-the-finance-sector-cl0woo9fw068pj6nv7i6pccms" title="How does Blockchain change the Financial industry?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647624636278/Avd29630V.png" alt="How does Blockchain change the Financial industry?"   /></a>
+<a href="https://dipankarmedhi.hashnode.dev/blockchain-changes-the-finance-sector-cl0woo9fw068pj6nv7i6pccms" title="How does Blockchain change the Financial industry?"><strong>How does Blockchain change the Financial industry?</strong></a>
+<div><strong>18 Mar 2022</strong> | <strong>Updated: 18 Mar 2022</strong></div>
 <br/> Hi👋, Today, let us go through the impact of Blockchain technology on the current banking system and how it will change (already changing) the digital transaction and user interaction of sales and exchange.
 We'll consider scenarios before and after t...</td><td><a href="https://dipankarmedhi.hashnode.dev/self-driving-car-using-tensorflow-cl0rqs8kl06ayoqnv00m1cns7" title="Self Driving Car using Tensorflow"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647324922399/k0O4lvdGE.png" alt="Self Driving Car using Tensorflow"   /></a>
 <a href="https://dipankarmedhi.hashnode.dev/self-driving-car-using-tensorflow-cl0rqs8kl06ayoqnv00m1cns7" title="Self Driving Car using Tensorflow"><strong>Self Driving Car using Tensorflow</strong></a>
