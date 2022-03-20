@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipankar Medhi</h1>
-<h3 align="center">A programmer • Developer from India. I 💛 blogging. Check out my blogs at <a href = "https://dipankarmedhi.hashnode.dev/" title = "Hasnode.com">Hashnode.com</a>. </h3>
+<h3 align="center">A Software Developer from India </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankar-medhi&label=Profile%20views&color=0e75b6&style=flat" alt="dipankar-medhi" /> </p>
 
 ```yml
 name: Dipankar Medhi
@@ -12,6 +11,8 @@ fields_of_interests: ["Data Science", "Machine Learning", "Blockchain & Web3.0"]
 currently_learning: ["Blockchain"]
 email: dipankarmedhi11@gmail.com
 ```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankar-medhi&label=Profile%20views&color=0e75b6&style=flat" alt="dipankar-medhi" /> </p>
+
 
 ### 📕 Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
