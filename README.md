@@ -52,6 +52,7 @@ So here I am, trying to help you guys ge...</td></tr></table>
 
 -->
 
+### 🏃‍♂️ Activity
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=Dipankar-Medhi&custom_title=Dipankar's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
