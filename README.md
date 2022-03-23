@@ -45,7 +45,7 @@ So here I am, trying to help you guys ge...</td></tr></table>
 
 ### 🏃‍♂️ Activity
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Dipankar-Medhi&custom_title=Dipankar's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=Dipankar-Medhi&custom_title=Dipankar's%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
 <p>&nbsp;<img width = "400" src="https://github-readme-stats.vercel.app/api?username=dipankar-medhi&show_icons=true&locale=en&theme=radical" alt="dipankar-medhi" />
