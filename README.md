@@ -17,7 +17,6 @@ email: dipankarmedhi11@gmail.com
 <p align="left">
 <a href="https://dipankarmedhi.hashnode.dev/knn-from-scratch-vs-sklearn-cl17c9d9d07i2jonv4hqw165t" title="KNN from scratch VS sklearn"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648267958787/6jFciPO2A.png" alt="KNN from scratch VS sklearn" width="250px" align="left" /></a>
 <a href="https://dipankarmedhi.hashnode.dev/knn-from-scratch-vs-sklearn-cl17c9d9d07i2jonv4hqw165t" title="KNN from scratch VS sklearn"><strong>KNN from scratch VS sklearn</strong></a>
-<div><strong>26 Mar 2022</strong> | <strong>Updated: 26 Mar 2022</strong></div>
 <br/> Welcome👋,
 In this article, we are going to build our own KNN algorithm from scratch and apply it to 23 different feature data set using Numpy and Pandas libraries.
 First, let us get some idea about the KNN or K Nearest Neighbour algorithm.
@@ -25,13 +24,11 @@ What is t... </p> <br/> <br/>
 <p align="left">
 <a href="https://dipankarmedhi.hashnode.dev/blockchain-changes-the-finance-sector-cl0woo9fw068pj6nv7i6pccms" title="How does Blockchain change the Financial industry?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647624636278/Avd29630V.png" alt="How does Blockchain change the Financial industry?" width="250px" align="left" /></a>
 <a href="https://dipankarmedhi.hashnode.dev/blockchain-changes-the-finance-sector-cl0woo9fw068pj6nv7i6pccms" title="How does Blockchain change the Financial industry?"><strong>How does Blockchain change the Financial industry?</strong></a>
-<div><strong>18 Mar 2022</strong> | <strong>Updated: 18 Mar 2022</strong></div>
 <br/> Hi👋, Today, let us go through the impact of Blockchain technology on the current banking system and how it will change (already changing) the digital transaction and user interaction of sales and exchange.
 We'll consider scenarios before and after t... </p> <br/> <br/>
 <p align="left">
 <a href="https://dipankarmedhi.hashnode.dev/self-driving-car-using-tensorflow-cl0rqs8kl06ayoqnv00m1cns7" title="Self Driving Car using Tensorflow"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647324922399/k0O4lvdGE.png" alt="Self Driving Car using Tensorflow" width="250px" align="left" /></a>
 <a href="https://dipankarmedhi.hashnode.dev/self-driving-car-using-tensorflow-cl0rqs8kl06ayoqnv00m1cns7" title="Self Driving Car using Tensorflow"><strong>Self Driving Car using Tensorflow</strong></a>
-<div><strong>15 Mar 2022</strong></div>
 <br/> Welcome👋, Today I will walk you through a Tensorflow project where we'll build a self-driving car based on Nvidia's Self Driving Car model.
 Prerequisites
 
@@ -39,17 +36,10 @@ Unity - Go to Unity and download the Unity installer. Choose the right version a
 <p align="left">
 <a href="https://dipankarmedhi.hashnode.dev/simple-shared-wallet-in-solidity-cl0qmy9va02jeoqnv3ubi63lp" title="Build a Simple Shared Wallet in Solidity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647083995899/fQEob8dyF.png" alt="Build a Simple Shared Wallet in Solidity" width="250px" align="left" /></a>
 <a href="https://dipankarmedhi.hashnode.dev/simple-shared-wallet-in-solidity-cl0qmy9va02jeoqnv3ubi63lp" title="Build a Simple Shared Wallet in Solidity"><strong>Build a Simple Shared Wallet in Solidity</strong></a>
-<div><strong>14 Mar 2022</strong></div>
 <br/> Today, we will build a shared wallet in Solidity, which will have functions like withdrawing, adding funds to different users on the wallet. 
 We will use Openzeppelin for the ownership and other security processes. 
 🚀What is the project all about?
 T... </p> <br/> <br/>
-<p align="left">
-<a href="https://dipankarmedhi.hashnode.dev/go-programming-books-cl0kz1ab401r0tbnvaek84j5y" title="Best books on Go Programming Language"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/lUaaKCUANVI/upload/v1646915101049/NHhUF8soo.jpeg" alt="Best books on Go Programming Language" width="250px" align="left" /></a>
-<a href="https://dipankarmedhi.hashnode.dev/go-programming-books-cl0kz1ab401r0tbnvaek84j5y" title="Best books on Go Programming Language"><strong>Best books on Go Programming Language</strong></a>
-<div><strong>10 Mar 2022</strong></div>
-<br/> Learning a new topic can be overwhelming, especially if it's a new programming language. Although the concepts remain the same, being able to write and solve problems using a new syntax can be a bit confusing.
-So here I am, trying to help you guys ge... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!--
