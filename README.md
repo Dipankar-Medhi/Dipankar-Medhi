@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipankar Medhi</h1>
-<h3 align="center">A Software Developer [Machine Learning] from India.<br> I am a Blockchain and Web3 enthusiast.</br> </h3>
+<h3 align="center">A Software Developer from India,<br> who is interested in Machine Learning, Data Science and Blockchain.</br> </h3>
 
 <p align = "center"><a href="https://medium.com/@dipankarmedhi11"><img src="https://img.shields.io/badge/-@dipankarmedhi11-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@dipankarmedhi11" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/dipankarmedhi/"><img src="https://img.shields.io/badge/-@dipankarmedhi-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/dipankarmedhi/" alt="LinkedIn Badge"></a> <a href="https://twitter.com/dipankarmedh1/"><img src="https://img.shields.io/badge/-@dipankarmedh1-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Twitter&amp;link=https://twitter.com/dipankarmedh1/" alt="Twitter Badge"></a> <a href="https://dipankarmedhi.hashnode.dev/"><img src="https://img.shields.io/badge/dipankarmedhi-2962FF?style=flat-square&logo=hashnode&logoColor=white;link=https://dipankarmedhi.hashnode.dev/" alt="Hashnode Badge"></a></p>
 
