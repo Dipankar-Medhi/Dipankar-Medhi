@@ -18,6 +18,6 @@ jobs:
         with:
           USERNAME: 'dipankarmedhi' # Hashnode Username
           COUNT: 8 # MAX Visisble
-          STYLE: "blog-grid-4"
+          STYLE: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
