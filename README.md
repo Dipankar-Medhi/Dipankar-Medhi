@@ -53,8 +53,7 @@ T... </p> <br/> <br/>
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=Dipankar-Medhi&custom_title=Dipankar's%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
-<p>&nbsp;<img width = "400" src="https://github-readme-stats.vercel.app/api?username=dipankar-medhi&show_icons=true&locale=en&theme=radical" alt="dipankar-medhi" />
-<img align="right" width = "400" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar-medhi&" alt="dipankar-medhi" /></p>
+<p>&nbsp;<img width = "400" src="https://github-readme-stats.vercel.app/api?username=dipankar-medhi&show_icons=true&locale=en&theme=radical" alt="dipankar-medhi" /></p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankar-medhi&label=Profile%20views&color=0e75b6&style=flat" alt="dipankar-medhi" /> </p>
