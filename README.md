@@ -15,6 +15,13 @@ email: dipankarmedhi11@gmail.com
 ### 📕 Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://dipankarmedhi.hashnode.dev/part1-introduction-clean-architecture-by-robert-cmartin-cl1klx3wy0dafkbnvefdcdcvo" title="Part1 - Introduction (Clean Architecture by Robert C.Martin)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649070162600/ItTZNLAXA.png" alt="Part1 - Introduction (Clean Architecture by Robert C.Martin)" width="250px" align="left" /></a>
+<a href="https://dipankarmedhi.hashnode.dev/part1-introduction-clean-architecture-by-robert-cmartin-cl1klx3wy0dafkbnvefdcdcvo" title="Part1 - Introduction (Clean Architecture by Robert C.Martin)"><strong>Part1 - Introduction (Clean Architecture by Robert C.Martin)</strong></a>
+<br/> Why is there a decline in programmers' productivity over time?
+Late-night race
+https://media.giphy.com/media/KD8Ldwzx90X9hi9QHW/giphy.gif
+Modern developers are sleep deprived. They work day and night, and they don't sleep and write code all day long ... </p> <br/> <br/>
+<p align="left">
 <a href="https://dipankarmedhi.hashnode.dev/knn-from-scratch-vs-sklearn-cl17c9d9d07i2jonv4hqw165t" title="KNN from scratch VS sklearn"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648267958787/6jFciPO2A.png" alt="KNN from scratch VS sklearn" width="250px" align="left" /></a>
 <a href="https://dipankarmedhi.hashnode.dev/knn-from-scratch-vs-sklearn-cl17c9d9d07i2jonv4hqw165t" title="KNN from scratch VS sklearn"><strong>KNN from scratch VS sklearn</strong></a>
 <br/> Welcome👋,
@@ -33,13 +40,6 @@ We'll consider scenarios before and after t... </p> <br/> <br/>
 Prerequisites
 
 Unity - Go to Unity and download the Unity installer. Choose the right version as per your sys... </p> <br/> <br/>
-<p align="left">
-<a href="https://dipankarmedhi.hashnode.dev/simple-shared-wallet-in-solidity-cl0qmy9va02jeoqnv3ubi63lp" title="Build a Simple Shared Wallet in Solidity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647083995899/fQEob8dyF.png" alt="Build a Simple Shared Wallet in Solidity" width="250px" align="left" /></a>
-<a href="https://dipankarmedhi.hashnode.dev/simple-shared-wallet-in-solidity-cl0qmy9va02jeoqnv3ubi63lp" title="Build a Simple Shared Wallet in Solidity"><strong>Build a Simple Shared Wallet in Solidity</strong></a>
-<br/> Today, we will build a shared wallet in Solidity, which will have functions like withdrawing, adding funds to different users on the wallet. 
-We will use Openzeppelin for the ownership and other security processes. 
-🚀What is the project all about?
-T... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!--
