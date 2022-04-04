@@ -8,7 +8,7 @@ name: Dipankar Medhi
 from: Assam (India)
 job: Looking for opportunities
 
-fields_of_interests: ["Data Science", "Machine Learning", "Blockchain & Web3.0"]
+fields_of_interests: ["Data Science", "Machine Learning", "MLOps", "Blockchain & Web3.0"]
 email: dipankarmedhi11@gmail.com
 ```
 
