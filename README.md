@@ -15,6 +15,13 @@ email: dipankarmedhi11@gmail.com
 ### 📕 Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://dipankarmedhi.hashnode.dev/build-a-todo-cli-using-go-cl1yuu1f700gly6nveger5wff" title="Build a todo CLI using GO"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649931695589/OCpdhZGWn.png" alt="Build a todo CLI using GO" width="250px" align="left" /></a>
+<a href="https://dipankarmedhi.hashnode.dev/build-a-todo-cli-using-go-cl1yuu1f700gly6nveger5wff" title="Build a todo CLI using GO"><strong>Build a todo CLI using GO</strong></a>
+<br/> CLI in go
+Go is great for building CLI applications. It provides two very powerful tools cobra-cli and viper. But in this example, we are going to use the flag package and other built-in tools.
+For more information on CLI using go, visit go.dev
+Creat... </p> <br/> <br/>
+<p align="left">
 <a href="https://dipankarmedhi.hashnode.dev/part1-introduction-clean-architecture-by-robert-cmartin-cl1klx3wy0dafkbnvefdcdcvo" title="Part1 - Introduction (Clean Architecture by Robert C.Martin)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649070162600/ItTZNLAXA.png" alt="Part1 - Introduction (Clean Architecture by Robert C.Martin)" width="250px" align="left" /></a>
 <a href="https://dipankarmedhi.hashnode.dev/part1-introduction-clean-architecture-by-robert-cmartin-cl1klx3wy0dafkbnvefdcdcvo" title="Part1 - Introduction (Clean Architecture by Robert C.Martin)"><strong>Part1 - Introduction (Clean Architecture by Robert C.Martin)</strong></a>
 <br/> Why is there a decline in programmers' productivity over time?
@@ -33,13 +40,6 @@ What is t... </p> <br/> <br/>
 <a href="https://dipankarmedhi.hashnode.dev/blockchain-changes-the-finance-sector-cl0woo9fw068pj6nv7i6pccms" title="How does Blockchain change the Financial industry?"><strong>How does Blockchain change the Financial industry?</strong></a>
 <br/> Hi👋, Today, let us go through the impact of Blockchain technology on the current banking system and how it will change (already changing) the digital transaction and user interaction of sales and exchange.
 We'll consider scenarios before and after t... </p> <br/> <br/>
-<p align="left">
-<a href="https://dipankarmedhi.hashnode.dev/self-driving-car-using-tensorflow-cl0rqs8kl06ayoqnv00m1cns7" title="Self Driving Car using Tensorflow"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647324922399/k0O4lvdGE.png" alt="Self Driving Car using Tensorflow" width="250px" align="left" /></a>
-<a href="https://dipankarmedhi.hashnode.dev/self-driving-car-using-tensorflow-cl0rqs8kl06ayoqnv00m1cns7" title="Self Driving Car using Tensorflow"><strong>Self Driving Car using Tensorflow</strong></a>
-<br/> Welcome👋, Today I will walk you through a Tensorflow project where we'll build a self-driving car based on Nvidia's Self Driving Car model.
-Prerequisites
-
-Unity - Go to Unity and download the Unity installer. Choose the right version as per your sys... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!--
