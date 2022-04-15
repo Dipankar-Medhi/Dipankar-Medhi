@@ -15,6 +15,17 @@ email: dipankarmedhi11@gmail.com
 ### 📕 Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://dipankarmedhi.hashnode.dev/what-and-why-do-we-need-mlops-part-1-introducing-mlops-cl207yk7s048xy6nv9bb46wcr" title="What and Why do we need MLOps? 
+(Part 1 - Introducing MLOps)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650014221223/YpaLZOCm6.png" alt="What and Why do we need MLOps? 
+(Part 1 - Introducing MLOps)" width="250px" align="left" /></a>
+<a href="https://dipankarmedhi.hashnode.dev/what-and-why-do-we-need-mlops-part-1-introducing-mlops-cl207yk7s048xy6nv9bb46wcr" title="What and Why do we need MLOps? 
+(Part 1 - Introducing MLOps)"><strong>What and Why do we need MLOps? 
+(Part 1 - Introducing MLOps)</strong></a>
+<br/> What is MLOps?
+MLOps stands for Machine Learning Operations. It is the standardization and streamlining of machine learning life cycle management.
+
+MLOps is a core function of Machine Learning engineering, focused on streamlining the process of takin... </p> <br/> <br/>
+<p align="left">
 <a href="https://dipankarmedhi.hashnode.dev/build-a-todo-cli-using-go-cl1yuu1f700gly6nveger5wff" title="Build a todo CLI using GO"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649931695589/OCpdhZGWn.png" alt="Build a todo CLI using GO" width="250px" align="left" /></a>
 <a href="https://dipankarmedhi.hashnode.dev/build-a-todo-cli-using-go-cl1yuu1f700gly6nveger5wff" title="Build a todo CLI using GO"><strong>Build a todo CLI using GO</strong></a>
 <br/> CLI in go
@@ -35,11 +46,6 @@ Modern developers are sleep deprived. They work day and night, and they don't sl
 In this article, we are going to build our own KNN algorithm from scratch and apply it to 23 different feature data set using Numpy and Pandas libraries.
 First, let us get some idea about the KNN or K Nearest Neighbour algorithm.
 What is t... </p> <br/> <br/>
-<p align="left">
-<a href="https://dipankarmedhi.hashnode.dev/blockchain-changes-the-finance-sector-cl0woo9fw068pj6nv7i6pccms" title="How does Blockchain change the Financial industry?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647624636278/Avd29630V.png" alt="How does Blockchain change the Financial industry?" width="250px" align="left" /></a>
-<a href="https://dipankarmedhi.hashnode.dev/blockchain-changes-the-finance-sector-cl0woo9fw068pj6nv7i6pccms" title="How does Blockchain change the Financial industry?"><strong>How does Blockchain change the Financial industry?</strong></a>
-<br/> Hi👋, Today, let us go through the impact of Blockchain technology on the current banking system and how it will change (already changing) the digital transaction and user interaction of sales and exchange.
-We'll consider scenarios before and after t... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!--
