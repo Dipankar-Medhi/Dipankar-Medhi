@@ -17,7 +17,7 @@ email: dipankarmedhi11@gmail.com
 
 <p align = "center">
 <img width="210" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/K8-architech.png" alt="K8 architect">
-<img width="175" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/Blue-round.png" alt="K8 architect">
+<img width="170" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/Blue-round.png" alt="K8 architect">
 </P>
 
 
