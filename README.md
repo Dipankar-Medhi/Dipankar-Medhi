@@ -73,8 +73,8 @@ What is t... </p> <br/> <br/>
 
 <div>
 <p>&nbsp;<img align='left' width = "400" src="https://github-readme-stats.vercel.app/api?username=dipankar-medhi&show_icons=true&locale=en&theme=radical" alt="dipankar-medhi" />
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img align='right' alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/api?username=dipankarmedhi11&theme=dark" width="300"/>
-</a></p>
+<img align='right' alt="LeetCode Stat Card" src="https://leetcode.card.workers.dev/dipankarmedhi11?theme=dark&font=baloo&extension=activity" width="400"/>
+  </p>
 </div>
+
 
