@@ -73,7 +73,7 @@ What is t... </p> <br/> <br/>
 
 <div>
 <p>&nbsp;<img align='left' width = "400" src="https://github-readme-stats.vercel.app/api?username=dipankar-medhi&show_icons=true&locale=en&theme=radical" alt="dipankar-medhi" />
-<img align='right' alt="LeetCode Stat Card" src="https://leetcode.card.workers.dev/dipankarmedhi11?theme=dark&font=baloo&extension=activity" width="400"/>
+<img align='right' alt="LeetCode Stat Card" src="https://leetcode.card.workers.dev/dipankarmedhi11?theme=dark&font=baloo" width="400"/>
   </p>
 </div>
 
