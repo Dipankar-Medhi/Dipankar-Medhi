@@ -25,6 +25,14 @@ email: dipankarmedhi11@gmail.com
 ### 📕 Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://dipankarmedhi.hashnode.dev/end-to-end-machine-learning-pipeline-with-amls-cl2odas1u0955g9nv7um7bwop" title="How to create an end-to-end Machine Learning pipeline with AMLS (Azure Machine Learning Studio)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651474278037/JYbdpywOd.png" alt="How to create an end-to-end Machine Learning pipeline with AMLS (Azure Machine Learning Studio)" width="250px" align="left" /></a>
+<a href="https://dipankarmedhi.hashnode.dev/end-to-end-machine-learning-pipeline-with-amls-cl2odas1u0955g9nv7um7bwop" title="How to create an end-to-end Machine Learning pipeline with AMLS (Azure Machine Learning Studio)"><strong>How to create an end-to-end Machine Learning pipeline with AMLS (Azure Machine Learning Studio)</strong></a>
+<br/> Welcome👋!
+Today let us build an end-to-end Machine learning pipeline with Microsoft Azure Machine Learning Studio.
+We are using the adult income dataset.
+For a more detailed tutorial, visit the official Microsoft Azure documentation.
+https://docs.mi... </p> <br/> <br/>
+<p align="left">
 <a href="https://dipankarmedhi.hashnode.dev/what-and-why-do-we-need-mlops-part-1-introducing-mlops-cl207yk7s048xy6nv9bb46wcr" title="What and Why do we need MLOps? 
 (Part 1 - Introducing MLOps)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650014221223/YpaLZOCm6.png" alt="What and Why do we need MLOps? 
 (Part 1 - Introducing MLOps)" width="250px" align="left" /></a>
@@ -49,13 +57,6 @@ Creat... </p> <br/> <br/>
 Late-night race
 https://media.giphy.com/media/KD8Ldwzx90X9hi9QHW/giphy.gif
 Modern developers are sleep deprived. They work day and night, and they don't sleep and write code all day long ... </p> <br/> <br/>
-<p align="left">
-<a href="https://dipankarmedhi.hashnode.dev/knn-from-scratch-vs-sklearn-cl17c9d9d07i2jonv4hqw165t" title="KNN from scratch VS sklearn"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648267958787/6jFciPO2A.png" alt="KNN from scratch VS sklearn" width="250px" align="left" /></a>
-<a href="https://dipankarmedhi.hashnode.dev/knn-from-scratch-vs-sklearn-cl17c9d9d07i2jonv4hqw165t" title="KNN from scratch VS sklearn"><strong>KNN from scratch VS sklearn</strong></a>
-<br/> Welcome👋,
-In this article, we are going to build our own KNN algorithm from scratch and apply it to 23 different feature data set using Numpy and Pandas libraries.
-First, let us get some idea about the KNN or K Nearest Neighbour algorithm.
-What is t... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!--
