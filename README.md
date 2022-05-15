@@ -9,10 +9,10 @@
 ```yml
 name: Dipankar Medhi
 from: Assam (India)
-job: Looking for opportunities
-
-fields_of_interests: ["Data Science", "Machine Learning", "MLOps", "Blockchain & Web3.0"]
 email: dipankarmedhi11@gmail.com
+interests: ["Business/Startups", "Wild life (I 💙 animals)"]
+currently-learning: ["MLOps"]
+
 ```
 
 <p align = "center">
@@ -65,8 +65,14 @@ Modern developers are sleep deprived. They work day and night, and they don't sl
 
 -->
 
+### 👨‍🔧 Some Live Projects
 
-
+|Project|Link|Tech Stack |
+|---|---|---|
+|The ML Engineer Notebook | https://themlengineernotebook.live/|Docusaurus|
+|Diabetes Predictor| https://diabetes-web-app.vercel.app/ | NextJs, Tailwind CSS, fastAPI, scikit-learn |
+|CoachPlus|https://coachplus.vercel.app/| NextJs, Tailwind CSS & MongoDB |
+|Tech News | https://tech-news-app.vercel.app/feed/1 | NextJs, Tailwind CSS |
 
 ### 🏃‍♂️ Activity
 
