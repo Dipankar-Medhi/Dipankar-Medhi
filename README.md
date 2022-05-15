@@ -65,14 +65,23 @@ Modern developers are sleep deprived. They work day and night, and they don't sl
 
 -->
 
-### 👨‍🔧 Some Live Projects
+<details>
+  <summary><h3>👨‍🔧Some Live Projects</h3></summary>
+<br>
+  <li><a href = "https://themlengineernotebook.live/">The ML Engineer Notebook</a></li>
+  <li><a href = "https://diabetes-web-app.vercel.app/">Diabetes Predictor</a></li>
+  <li><a href = "https://coachplus.vercel.app/">CoachPlus</a></li>
+  <li><a href = "https://tech-news-app.vercel.app/feed/1 ">Tech News</a></li>
 
-|Project|Link|Tech Stack |
-|---|---|---|
-|The ML Engineer Notebook | https://themlengineernotebook.live/|Docusaurus|
-|Diabetes Predictor| https://diabetes-web-app.vercel.app/ | NextJs, Tailwind CSS, fastAPI, scikit-learn |
-|CoachPlus|https://coachplus.vercel.app/| NextJs, Tailwind CSS & MongoDB |
-|Tech News | https://tech-news-app.vercel.app/feed/1 | NextJs, Tailwind CSS |
+
+</details>
+<!--
+<details>
+  <summary><h3>📚 Personal fav Books</h3></summary>
+  <br>
+   <img height="200" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcovers.oreillystatic.com%2Fimages%2F0636920142874%2Frc_lrg.jpg&f=1&nofb=1" >
+</details>
+-->
 
 ### 🏃‍♂️ Activity
 
