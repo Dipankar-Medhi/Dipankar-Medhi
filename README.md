@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dipankar Medhi</h1>
+<!---
 <h3 align="center">A Software Developer from India <br> who's passionate about Machine Learning and MLOps.</h3>
+-->
+<p align = "center">
+<img align = "center" src="https://readme-typing-svg.herokuapp.com?font=montserrat&color=8F1AF7&center=true&lines=Software+Development;Experienced+with+Machine+Learning;Full+stack+developer">
+</p>
 
 <p align = "center"><a href="https://medium.com/@dipankarmedhi11"><img src="https://img.shields.io/badge/-@dipankarmedhi11-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@dipankarmedhi11" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/dipankarmedhi/"><img src="https://img.shields.io/badge/-@dipankarmedhi-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/dipankarmedhi/" alt="LinkedIn Badge"></a> <a href="https://twitter.com/dipankarmedh1/"><img src="https://img.shields.io/badge/-@dipankarmedh1-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Twitter&amp;link=https://twitter.com/dipankarmedh1/" alt="Twitter Badge"></a> <a href="https://dipankarmedhi.hashnode.dev/"><img src="https://img.shields.io/badge/dipankarmedhi-2962FF?style=flat-square&logo=hashnode&logoColor=white;link=https://dipankarmedhi.hashnode.dev/" alt="Hashnode Badge"></a></p>
 
@@ -16,8 +21,8 @@ currently-learning: ["MLOps"]
 ```
 
 <p align = "center">
-<img width="210" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/K8-architech.png" alt="K8 architect">
-<img width="170" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/Blue-round.png" alt="K8 architect">
+<img width="140" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/K8-architech.png" alt="K8 architect">
+<img width="114" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/Blue-round.png" alt="K8 architect">
 </P>
 
 
