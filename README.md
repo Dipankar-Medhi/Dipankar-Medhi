@@ -15,9 +15,6 @@
 name: Dipankar Medhi
 from: Assam (India)
 email: dipankarmedhi11@gmail.com
-interests: ["Business/Startups", "Wild life (I 💙 animals)"]
-currently-learning: ["MLOps"]
-
 ```
 
 <p align = "center">
