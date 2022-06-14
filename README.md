@@ -11,11 +11,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dipankar-medhi&label=Profile%20views&color=0e75b6&style=flat" alt="dipankar-medhi" /> </p>
 
 
-```yml
-name: Dipankar Medhi
-from: India
-email: dipankarmedhi11@gmail.com
-```
 
 <p align = "center">
 <img width="140" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/K8-architech.png" alt="K8 architect">
