@@ -15,7 +15,6 @@
 name: Dipankar Medhi
 from: India
 email: dipankarmedhi11@gmail.com
-interests: ["MLOps", "Infrastructure", "Cloud-Native"]
 ```
 
 <p align = "center">
