@@ -14,6 +14,7 @@
 
 <p align = "center">
 <img width="140" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/K8-architech.png" alt="K8 architect">
+<img width="114" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/sodacode-badge.png">
 <img width="114" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/Blue-round.png" alt="K8 architect">
 </P>
 
