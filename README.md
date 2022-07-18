@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dipankar Medhi</h1>
 
+<!--
 <h3 align="center">A Software Developer from India, <br> experienced with Machine Learning.</h3>
+---!>
 
 <p align = "center">
 <img align = "center" src="https://readme-typing-svg.herokuapp.com?font=montserrat&color=8F1AF7&center=true&lines=MLOps;Machine+Learning;Kubernetes;Cloud+Native;Golang;Python">
