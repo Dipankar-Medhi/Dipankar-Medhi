@@ -13,16 +13,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dipankar-medhi&label=Profile%20views&color=0e75b6&style=flat" alt="dipankar-medhi" /> </p>
 
 
-
 <p align = "center">
 <img width="118" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/K8-architech.png" alt="K8 architect">
 <img width="114" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/sodacode-badge.png" alt="SODACODE badge">
 <img width="114" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/Blue-round.png" alt="Kubeflow">
-</P>
+</p>
 
 
+### 📕 Latest Blog Posts 
 
-### 📕 Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://dipankarmedhi.hashnode.dev/end-to-end-machine-learning-pipeline-with-amls-cl2odas1u0955g9nv7um7bwop" title="How to create an end-to-end Machine Learning pipeline with AMLS (Azure Machine Learning Studio)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651474278037/JYbdpywOd.png" alt="How to create an end-to-end Machine Learning pipeline with AMLS (Azure Machine Learning Studio)" width="250px" align="left" /></a>
