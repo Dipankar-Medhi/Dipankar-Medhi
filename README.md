@@ -2,7 +2,7 @@
 
 <!--
 <h3 align="center">A Software Developer from India, <br> experienced with Machine Learning.</h3>
----!>
+-->
 
 <p align = "center">
 <img align = "center" src="https://readme-typing-svg.herokuapp.com?font=montserrat&color=8F1AF7&center=true&lines=MLOps;Machine+Learning;Kubernetes;Cloud+Native;Golang;Python">
@@ -19,8 +19,7 @@
 <img width="114" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/Blue-round.png" alt="Kubeflow">
 </p>
 
-
-### 📕 Latest Blog Posts 
+### Latest Blogs
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
