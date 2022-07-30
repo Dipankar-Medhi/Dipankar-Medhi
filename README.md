@@ -82,8 +82,9 @@ Modern developers are sleep deprived. They work day and night, and they don't sl
 -->
 
 ### 🏃‍♂️ Activity
-
+<!--
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=Dipankar-Medhi&custom_title=Dipankar's%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <div>
 <p>&nbsp;<img align='left' width = "400" src="https://github-readme-stats.vercel.app/api?username=dipankar-medhi&show_icons=true&locale=en&theme=radical" alt="dipankar-medhi" />
