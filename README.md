@@ -23,7 +23,7 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://dipankarmedhi.hashnode.dev/streaming-tweets-using-twitter-v2-api-tweepy-cl6x526fe03uvwlnvb7qaes7k" title="Streaming tweets using Twitter V2 API | Tweepy"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660711141274/vqKktpi8h.png" alt="Streaming tweets using Twitter V2 API | Tweepy" width="250px" align="left" /></a>
+<a href="https://dipankarmedhi.hashnode.dev/streaming-tweets-using-twitter-v2-api-tweepy-cl6x526fe03uvwlnvb7qaes7k" title="Streaming tweets using Twitter V2 API | Tweepy"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660742505605/0sgWtf4CN.png" alt="Streaming tweets using Twitter V2 API | Tweepy" width="250px" align="left" /></a>
 <a href="https://dipankarmedhi.hashnode.dev/streaming-tweets-using-twitter-v2-api-tweepy-cl6x526fe03uvwlnvb7qaes7k" title="Streaming tweets using Twitter V2 API | Tweepy"><strong>Streaming tweets using Twitter V2 API | Tweepy</strong></a>
 <br/> With v2 Twitter API, things have changed when it comes to streaming tweets. Today we're going to see how to use StreamingClient to stream tweets and store them into an SQLite3 database.
 About Twitter V2 API
