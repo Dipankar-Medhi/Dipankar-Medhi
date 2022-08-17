@@ -23,6 +23,12 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://dipankarmedhi.hashnode.dev/streaming-tweets-using-twitter-v2-api-tweepy-cl6x526fe03uvwlnvb7qaes7k" title="Streaming tweets using Twitter V2 API | Tweepy"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660711141274/vqKktpi8h.png" alt="Streaming tweets using Twitter V2 API | Tweepy" width="250px" align="left" /></a>
+<a href="https://dipankarmedhi.hashnode.dev/streaming-tweets-using-twitter-v2-api-tweepy-cl6x526fe03uvwlnvb7qaes7k" title="Streaming tweets using Twitter V2 API | Tweepy"><strong>Streaming tweets using Twitter V2 API | Tweepy</strong></a>
+<br/> With v2 Twitter API, things have changed when it comes to streaming tweets. Today we're going to see how to use StreamingClient to stream tweets and store them into an SQLite3 database.
+About Twitter V2 API
+For streaming tweets, you are most likely t... </p> <br/> <br/>
+<p align="left">
 <a href="https://dipankarmedhi.hashnode.dev/end-to-end-machine-learning-pipeline-with-amls-cl2odas1u0955g9nv7um7bwop" title="How to create an end-to-end Machine Learning pipeline with AMLS (Azure Machine Learning Studio)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651474278037/JYbdpywOd.png" alt="How to create an end-to-end Machine Learning pipeline with AMLS (Azure Machine Learning Studio)" width="250px" align="left" /></a>
 <a href="https://dipankarmedhi.hashnode.dev/end-to-end-machine-learning-pipeline-with-amls-cl2odas1u0955g9nv7um7bwop" title="How to create an end-to-end Machine Learning pipeline with AMLS (Azure Machine Learning Studio)"><strong>How to create an end-to-end Machine Learning pipeline with AMLS (Azure Machine Learning Studio)</strong></a>
 <br/> Welcome👋!
@@ -48,13 +54,6 @@ MLOps is a core function of Machine Learning engineering, focused on streamlinin
 Go is great for building CLI applications. It provides two very powerful tools cobra-cli and viper. But in this example, we are going to use the flag package and other built-in tools.
 For more information on CLI using go, visit go.dev
 Creat... </p> <br/> <br/>
-<p align="left">
-<a href="https://dipankarmedhi.hashnode.dev/part1-introduction-clean-architecture-by-robert-cmartin-cl1klx3wy0dafkbnvefdcdcvo" title="Part1 - Introduction (Clean Architecture by Robert C.Martin)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649070162600/ItTZNLAXA.png" alt="Part1 - Introduction (Clean Architecture by Robert C.Martin)" width="250px" align="left" /></a>
-<a href="https://dipankarmedhi.hashnode.dev/part1-introduction-clean-architecture-by-robert-cmartin-cl1klx3wy0dafkbnvefdcdcvo" title="Part1 - Introduction (Clean Architecture by Robert C.Martin)"><strong>Part1 - Introduction (Clean Architecture by Robert C.Martin)</strong></a>
-<br/> Why is there a decline in programmers' productivity over time?
-Late-night race
-https://media.giphy.com/media/KD8Ldwzx90X9hi9QHW/giphy.gif
-Modern developers are sleep deprived. They work day and night, and they don't sleep and write code all day long ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!--
