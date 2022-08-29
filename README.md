@@ -62,14 +62,6 @@ Creat... </p> <br/> <br/>
 
 -->
 
-<details>
-  <summary><h3>👨‍🔧Some Live Projects</h3></summary>
-<br>
-  <li><a href = "https://themlengineernotebook.live/">The ML Engineer Notebook</a></li>
-  <li><a href = "https://diabetes-web-app.vercel.app/">Diabetes Predictor</a></li>
-  <li><a href = "https://coachplus.vercel.app/">CoachPlus</a></li>
-  <li><a href = "https://tech-news-app.vercel.app/feed/1 ">Tech News</a></li>
-
 
 </details>
 <!--
