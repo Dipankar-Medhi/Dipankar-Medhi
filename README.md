@@ -15,7 +15,6 @@
 </p>
 
 ```YAML
-role: Machine Learning Engineer 
 things_I_deal_with: 
   Microservices : [ fastAPI, flask ]
   Machine Learning : [ Tensorflow, NLP, Huggingface, Pandas, Numpy ]
