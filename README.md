@@ -14,13 +14,7 @@
 <img width="114" src = "https://github.com/Dipankar-Medhi/Dipankar-Medhi/blob/main/images/Blue-round.png" alt="Kubeflow">
 </p>
 
-```YAML
-things_I_deal_with: 
-  Microservices : [ fastAPI, flask ]
-  Machine Learning : [ Tensorflow, NLP, Huggingface, Pandas, Numpy ]
-  Containers : [ Docker ]
-  Databases : [ Postgresql, SQLite ] 
-```
+
 
 ### Latest Blogs
 
