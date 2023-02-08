@@ -16,8 +16,6 @@
 
 ```yaml
 located_in: India
-current_job: Machine Learning Engineer
-education: Bachelor of Technology (B.Tech)
 fields_of_interests: ["MLOps", "Data Engineering", "Edge Machine Learning (Mobile and Microcontroller)", "Real-time systems"]
 currently_learning: ["Kubernetes"]
 ```
